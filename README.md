@@ -2,7 +2,7 @@
 
 A modern, fully responsive e-commerce style homepage built with React. This project showcases a mobile-first design approach, component-based architecture, and interactive UI elements handled with React state.
 
-**Live Demo Link:** [**Your Live Site URL Will Go Here**](#) ---
+**Live Demo Link:** [**Your Live Site URL Will Go Here**](https://e-commercewebsite-khaki.vercel.app/) ---
 
 ![EREN Website Screenshot](./screenshot.png)
 ## About The Project
