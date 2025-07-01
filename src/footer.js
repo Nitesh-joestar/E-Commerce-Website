@@ -7,6 +7,8 @@ function Footer() {
         <a href="#">About Mikasa</a>
         <a href="#">Customer Service</a>
         <a href="#">Privacy Policy</a>
+        <a href="#">A new day</a>
+
       </div>
       <div className="footer-signup">
         <p>Sign up to receive special offers & promotions from Mikasa.</p>
